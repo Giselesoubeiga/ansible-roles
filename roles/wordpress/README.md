@@ -64,13 +64,3 @@ There are two types of test environments available. One powered by Vagrant, anot
 - Vagrant: [vagrant-tests](https://github.com/bertvv/ansible-role-wordpress/tree/vagrant-tests)
 - Docker: [docker-tests](https://github.com/bertvv/ansible-role-wordpress/tree/docker-tests)
 
-## License
-
-2-clause BSD license, see [LICENSE.md](LICENSE.md)
-
-## Contributors
-
-- [Bert Van Vreckem](https://github.com/bertvv/) (maintainer)
-- [Joran Goossens](https://github.com/jorangooss99)
-- [Jordi Stevens](https://github.com/Xplendit)
-- [Kwinten Guillaume](https://github.com/kwinteng)
